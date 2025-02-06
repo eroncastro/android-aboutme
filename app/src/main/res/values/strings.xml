@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Hello World!</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hello!\n\n
+        My name is Frank Dmitri\n\n\n
+        and I am going to sing Frank Sinatra for all of you!\n\n\n
+        My friend likes Rust\n\n\n
+        and hates Golang\n\n\n
+        because Golang sucks\n\n\n.
+
+                Hello!\n\n
+        My name is Frank Dmitri\n\n\n
+        and I am going to sing Frank Sinatra for all of you!\n\n\n
+        My friend likes Rust\n\n\n
+        and hates Golang\n\n\n
+        because Golang sucks\n\n\n.
+
+                Hello!\n\n
+        My name is Frank Dmitri\n\n\n
+        and I am going to sing Frank Sinatra for all of you!\n\n\n
+        My friend likes Rust\n\n\n
+        and hates Golang\n\n\n
+        because Golang sucks\n\n\n.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
